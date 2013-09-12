@@ -1,3 +1,3 @@
 <?php
-echo "Why testing this with php 22";
+echo "Why testing this with php 2288";
 ?>
